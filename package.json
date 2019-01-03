@@ -1,0 +1,20 @@
+{
+  "name": "26-Chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piet-Tia/Kodilla_26-Chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Piet-Tia/Kodilla_26-Chat/issues"
+  },
+  "homepage": "https://github.com/Piet-Tia/Kodilla_26-Chat#readme"
+}
